@@ -65,3 +65,8 @@ def avg_guesses_smart(n):
 n = 267751
 avg_guesses, numerator = avg_guesses_smart(n)
 print(f'The expected number of guesses is {avg_guesses:.6f}, or more precisely: {numerator} / {n}')
+
+# OUTPUT:
+# The expected number of guesses is 17.041957, or more precisely: 4563001 / 267751
+
+
